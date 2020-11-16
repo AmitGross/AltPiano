@@ -1,5 +1,5 @@
 # AltPiano
-learn and play the piano
+learn and play the piano using pygame interface
 
 this app will teach you scales and chords on an alternative design of a piano keyboard.
 
